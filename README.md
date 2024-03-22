@@ -1,6 +1,7 @@
 # Big Bed Buff
 This is a Mod for the game [RimWorld](https://store.steampowered.com/app/294100).  
 The mod is not on Steam Workshop yet, but it likely will be soon.  
+Thanks to crimsonshadow1232(1097217099941806151) and myphicbowser(280038611863339018) on Discord for ideas!
 
 ## Install Mod Locally
 1. Make sure you have installed RimWorld game version 1.2-1.5, pre-1.2 versions of the game are not supported due to lack of Harmony support.  
@@ -16,6 +17,7 @@ This mod requires [RimRef](https://www.nuget.org/packages/Krafs.Rimworld.Ref) an
 # 独享双人床
 这个是为游戏“[环世界](https://store.steampowered.com/app/294100)”制作的一个模组。  
 暂未发布到Steam创意工坊上，过一段时间后大概会发。
+感谢DC群里的crimsonshadow1232(1097217099941806151)和myphicbowser(280038611863339018)的创意！
 
 ## 本地安装
 1. 确认你安装了环世界1.2-1.5版本，1.1以前的版本因为Harmony不支持而无法运行此模组；  
