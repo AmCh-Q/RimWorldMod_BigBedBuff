@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <ThoughtDef>
+    <defName>SleptAloneInBigBed</defName>
+    <durationDays>1</durationDays>
+    <stackLimit>1</stackLimit>
+    <nullifyingTraits>
+      <li>Ascetic</li>
+    </nullifyingTraits>
+    <nullifyingPrecepts>
+      <li MayRequire="Ludeon.RimWorld.Ideology">RoughLiving_Welcomed</li>
+    </nullifyingPrecepts>
+    <stages>
+      <li>
+        <label>slept in a personal big bed</label>
+        <description>I had a big bed to sleep in. So roomy!</description>
+        <baseMoodEffect>4</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+</Defs>
