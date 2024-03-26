@@ -55,12 +55,13 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Krafs.Rimworld.Ref">
-      <Version>1.5.4041-beta</Version>
+      <Version>1.5.4045-beta</Version>
     </PackageReference>
     <PackageReference Include="Lib.Harmony">
-      <Version>2.3.1.1</Version>
+      <Version>2.3.2</Version>
       <PrivateAssets>all</PrivateAssets>
       <ExcludeAssets>runtime</ExcludeAssets>
+      <IncludeAssets>compile; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
