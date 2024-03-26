@@ -14,7 +14,7 @@ This mod requires [RimRef](https://www.nuget.org/packages/Krafs.Rimworld.Ref) an
 
 ---
 
-# 独享双人床
+# 独享大床Buff
 这个是为游戏“[环世界](https://store.steampowered.com/app/294100)”制作的一个模组。  
 [Steam创意工坊订阅](https://steamcommunity.com/sharedfiles/filedetails/?id=3201556342)。  
 感谢DC群里的crimsonshadow1232(1097217099941806151)和myphicbowser(280038611863339018)的创意！
