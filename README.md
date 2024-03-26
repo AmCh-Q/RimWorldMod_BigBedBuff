@@ -1,6 +1,6 @@
 # Big Bed Buff
 This is a Mod for the game [RimWorld](https://store.steampowered.com/app/294100).  
-The mod is not on Steam Workshop yet, but it likely will be soon.  
+[Subscribe on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3201556342).  
 Thanks to crimsonshadow1232(1097217099941806151) and myphicbowser(280038611863339018) on Discord for ideas!
 
 ## Install Mod Locally
@@ -16,7 +16,7 @@ This mod requires [RimRef](https://www.nuget.org/packages/Krafs.Rimworld.Ref) an
 
 # 独享双人床
 这个是为游戏“[环世界](https://store.steampowered.com/app/294100)”制作的一个模组。  
-暂未发布到Steam创意工坊上，过一段时间后大概会发。
+[Steam创意工坊订阅](https://steamcommunity.com/sharedfiles/filedetails/?id=3201556342)。  
 感谢DC群里的crimsonshadow1232(1097217099941806151)和myphicbowser(280038611863339018)的创意！
 
 ## 本地安装
