@@ -20,7 +20,7 @@ namespace BigBedBuff
         {
             LongEventHandler.QueueLongEvent(delegate
             {
-                thought = ThoughtDef.Named("SleptAloneInBigBed");
+                thought = DefDatabase<ThoughtDef>.GetNamed("SleptAloneInBigBed");
                 PatchApplier.ApplyPatches();
             }, "BigBedBuff.Mod.ctor", false, null);
         }
